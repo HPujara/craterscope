@@ -1,0 +1,12 @@
+{
+  "split": "test",
+  "iou_threshold": 0.5,
+  "n_processed": 133,
+  "n_skipped": 0,
+  "tp": 33,
+  "fp": 299,
+  "fn": 266,
+  "precision": 0.0994,
+  "recall": 0.1104,
+  "f1": 0.1046
+}

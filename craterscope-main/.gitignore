@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Dataset (download separately — see README)
+archive/
+annotated-images/
+*.xml
+
+# Local tuning scratch scripts and logs
+tune_params.py
+tune_params2.py
+tune_method_b.py
+quick_eval.py
+results/tune_log.txt
+
+# Generated media / personal files
+*.mp4
+*.avi
+*.mov
+*.docx
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
